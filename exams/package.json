@@ -1,0 +1,13 @@
+{
+  "name": "exams",
+  "version": "1.0.0",
+  "description": "Platzi Examns automations",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.9"
+  }
+}
